@@ -1,6 +1,6 @@
 # AURUM Money Services: Ledger System
 
-> **Client project** · Built by [Rahimi Tech Solution](https://github.com/rahimiabdulrahmanab) · The source code is private to the client · Status: in development
+> **Client project** · Built by [Rahimi Tech Solution](https://github.com/AbdulRahmanRahimi) · The source code is private to the client · Status: in development
 
 A ledger system for **AURUM Afghanistan Mobile Money Services Company**. It replaces separate Excel workbooks for each depositor and currency with one auditable, **append-only ledger**.
 
